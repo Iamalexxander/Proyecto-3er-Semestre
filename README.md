@@ -66,3 +66,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 # Proyecto-3er-Semestre
+
+Este es el proyecto que desarrollé durante el tercer semestre con el objetivo de aprobar la materia y avanzar al cuarto semestre. Se trata de una **tienda web para una licorería**, construida con el framework **Laravel**.
+
+Entre sus principales características destacan:
+
+- Conexión a base de datos **MySQL** gestionada mediante **XAMPP**.
+- **Sistema de autenticación** robusto con implementación de **middleware** para seguridad.
+- Gestión de **roles y permisos** diferenciados (administrador, cliente, etc.).
+- Módulo completo de **facturación**.
+- Panel de control para administración de productos, usuarios y ventas.
+- Interfaz amigable y responsive.
+
+Este proyecto refleja un avance significativo en el dominio de tecnologías backend y frontend, además de buenas prácticas en el desarrollo de aplicaciones web seguras y funcionales.
